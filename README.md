@@ -1,2 +1,3 @@
 # 2025_02_22_TimePercentInterfaceItween
-Extension of 2025_02_17_TimePercentInterface specifically for ITween
+Extension of 2025_02_17_TimePercentInterface specifically for Bezier
+
