@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.elab.timepercentitweenEditor",          
-    "references": ["be.elab.timepercentitween"
+            "name": "be.elab.timepercentbezierEditor",          
+    "references": ["be.elab.timepercentbezier"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           

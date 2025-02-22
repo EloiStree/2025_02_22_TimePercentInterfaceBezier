@@ -1,8 +1,8 @@
 {
-    "name": "be.elab.timepercentitween",
+    "name": "be.elab.timepercentbezier",
     "rootNamespace": "",
     "references": [
-        "be.elab.timepercent"
+        "PathCreator"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

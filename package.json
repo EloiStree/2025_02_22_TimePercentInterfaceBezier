@@ -1,11 +1,11 @@
 
 {                                                                                
-  "name": "be.elab.timepercentitween",                              
-  "displayName": "Time Percent for Itween",                        
+  "name": "be.elab.timepercentbezier",                              
+  "displayName": "Time Percent Bezier",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
-  "description": "Itween version of Time Percent tool.",                         
+  "description": "Tool to set object using percent of NTP server between two timestamp using bezier creator tool.",                         
   "keywords": ["Script","Tool"],                       
   "dependencies":{},     
   "relatedPackages":{},     
