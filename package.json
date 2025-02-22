@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.timepercentitween",                              
+  "displayName": "Time Percent for Itween",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Itween version of Time Percent tool.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_02_22_TimePercentInterfaceItween.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

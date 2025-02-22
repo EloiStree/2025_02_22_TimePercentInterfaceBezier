@@ -1,0 +1,16 @@
+{
+    "name": "be.elab.timepercentitween",
+    "rootNamespace": "",
+    "references": [
+        "be.elab.timepercent"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
